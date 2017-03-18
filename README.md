@@ -27,7 +27,8 @@ Matlab, Python
 -------------
 The world we live in is becoming increasingly multilingual and, at the same time, increasingly automated. Hence the need of automatic language identification is increasing. Most used 3 methods namely texture analysis, template matching and statistical analysis are found to be accurate and feasible. The details about these methods are explained in the further sections.
 
-![Alt text](/poster/final images/1.jpg?raw=true "Sample of templates")
+![alt tag](https://raw.githubusercontent.com/manikantanallagatla/BTP-1/master//poster/final images/1.jpg)
+
 
 -------------
 ### *Methods*:
