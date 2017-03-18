@@ -42,17 +42,17 @@ After image processing step shown in figure 1, respective features are extracted
 -------------
 Using local binary patterns texture features are extracted. To calculate the LBP value for a pixel in the gray scale image, we compare the central pixel value with the neighbouring pixel values. The whole process is shown in the figure 2.
 
-[image]
-[image]
+![alt tag](https://raw.githubusercontent.com/manikantanallagatla/BTP-1/master/poster/2.jpg)
+![alt tag](https://raw.githubusercontent.com/manikantanallagatla/BTP-1/master/poster/3.jpg)
+
 -------------
 ### *Template matching*:
 
 -------------
 Character templates of three languages English, Hindi, Telugu are handpicked from their respective scripts. Then after performing image processing as above, the instances of these templates are searched in test document images. Sample of templates for each language are shown in introduction.
 
-[image]
-[image]
-
+![alt tag](https://raw.githubusercontent.com/manikantanallagatla/BTP-1/master/poster/4.jpg)
+![alt tag](https://raw.githubusercontent.com/manikantanallagatla/BTP-1/master/poster/histograms.jpg)
 -------------
 
 ### *Results*:
